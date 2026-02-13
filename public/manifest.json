@@ -1,0 +1,22 @@
+{
+    "elixir": {
+        "version": "1.0.0",
+        "releaseDate": "2026-02-13",
+        "downloadUrl": "https://rizingsunmedia.com/updates/download/ElixirContext.zxp",
+        "changelog": [
+            "Initial release"
+        ],
+        "minVersion": "1.0.0",
+        "critical": false
+    },
+    "elixir-viewer": {
+        "version": "1.0.0",
+        "releaseDate": "2026-02-13",
+        "downloadUrl": "https://rizingsunmedia.com/updates/download/ElixirViewer.zxp",
+        "changelog": [
+            "Initial release"
+        ],
+        "minVersion": "1.0.0",
+        "critical": false
+    }
+}
